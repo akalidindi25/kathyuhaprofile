@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #ff6f61;
-    --secondary-color: #4b4b4b;
+    --primary-color: #3c6df3;
+    --secondary-color: #52e7b6;
     --text-color: #2c3e50;
     --bg-color: #f0f0f0;
     --card-bg: #ffffff;
@@ -9,8 +9,8 @@
 }
 
 [data-theme="dark"] {
-    --primary-color: #ff9a8d;
-    --secondary-color: #b0b0b0;
+    --primary-color: #c234bb;
+    --secondary-color: #085e4f;
     --text-color: #ecf0f1;
     --bg-color: #2c3e50;
     --card-bg: #34495e;

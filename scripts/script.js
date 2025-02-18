@@ -1,5 +1,5 @@
 // Add any JavaScript functionality here
-console.log("Welcome to Siva Kalyan Geddada's personal website!"); 
+console.log("Welcome to Athyuha Kalidindi's personal website!"); 
 
 // Dark mode toggle
 const themeSwitch = document.querySelector('.theme-switch');
